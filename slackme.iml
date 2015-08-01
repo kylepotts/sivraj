@@ -11,10 +11,28 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target/base+system+user+dev" />
     </content>
-    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Leiningen: clojure-complete:0.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: environ:1.0.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.6.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/tools.nrepl:0.2.6" level="project" />
+    <orderEntry type="library" name="Leiningen: slack-rtm:0.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.async:0.1.346.0-17112a-alpha" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.json:0.2.5" level="project" />
+    <orderEntry type="library" name="Leiningen: org.julienxx/clj-slack:0.4.2" level="project" />
+    <orderEntry type="library" name="Leiningen: stylefruits/gniazdo:0.3.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.analyzer.jvm:0.1.0-beta12" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.memoize:0.5.6" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.analyzer:0.1.0-beta12" level="project" />
+    <orderEntry type="library" name="Leiningen: org.ow2.asm/asm-all:4.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.cache:0.6.3" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.priority-map:0.0.2" level="project" />
+    <orderEntry type="library" name="Leiningen: http-kit:2.1.16" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.jetty.websocket/websocket-client:9.3.0.M1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.jetty.websocket/websocket-common:9.3.0.M1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-io:9.3.0.M1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-util:9.3.0.M1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.jetty.websocket/websocket-api:9.3.0.M1" level="project" />
   </component>
 </module>
